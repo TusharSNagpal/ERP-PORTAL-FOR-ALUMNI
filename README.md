@@ -7,7 +7,7 @@ A full stack project: ERP Portal for ALUMNI of IIITB (to get further education/w
 <br />
 -> DATABASE: MySQL
 <br /><br />
-ERP Portal for ALUMNI of IIITB where user will enter his/her Graduation Year and Name and using these details first it will be checked from students tables in database, if he/she is a valid ALUMNI of IIITB or not. After it is validated, ALUMNI will be asked to register for further Education/Working Details.
+ERP Portal for ALUMNI of IIITB where user will enter his/her Graduation Year and Name and using these details first it will be checked from students table in database, if he/she is a valid ALUMNI of IIITB or not. After it is validated, ALUMNI will be asked to register for further Education/Working Details.
 <br /><br />
 Also, there is a dropdown menu feature available for selecting organisation.. in this dropdown list organisation names will be fetched from organisation table in Database.
 <br />
