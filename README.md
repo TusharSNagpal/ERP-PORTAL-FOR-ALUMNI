@@ -2,5 +2,8 @@
 A full stack project: ERP Portal for ALUMNI of IIITB (to get further education/working details)
 
 -> FRONTEND: React
-</br>
+<br />
 -> BACKEND: Hibernate
+<br />
+-> DATABASE: MySQL
+
