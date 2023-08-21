@@ -11,3 +11,6 @@ ERP Portal for ALUMNI of IIITB where user will enter his/her Graduation Year and
 <br /><br />
 Also, there is a dropdown menu feature available for selecting organisation.. in this dropdown list organisation names will be fetched from organisation table in Database.
 <br />
+
+
+![Uploading Screenshot from 2023-08-21 16-48-47.png…]()
