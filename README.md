@@ -13,4 +13,4 @@ Also, there is a dropdown menu feature available for selecting organisation.. in
 <br />
 
 
-![Uploading Screenshot from 2023-08-21 16-48-47.png…]()
+![Screenshot from 2023-08-21 16-54-57](https://github.com/TusharSNagpal/ERP-PORTAL-FOR-ALUMNI/assets/63884440/2c9b0579-282a-491b-9f88-7b4b745294de)
